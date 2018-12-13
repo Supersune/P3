@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (emg-data-sample-VisualStudio2013.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  DataCollector.cpp
+c:\users\sune1\source\repos\p3\include\myo\cxx\detail\throwonerror.hpp(39): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  c:\users\sune1\source\repos\p3\include\myo\cxx\detail\throwonerror.hpp(39): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+c:\users\sune1\source\repos\p3\include\myo\cxx\detail\throwonerror.hpp(45): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  c:\users\sune1\source\repos\p3\include\myo\cxx\detail\throwonerror.hpp(45): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+c:\users\sune1\source\repos\p3\samples\emgprocessing.h(34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  emgProcessing.cpp
+c:\users\sune1\source\repos\p3\include\myo\cxx\detail\throwonerror.hpp(39): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  c:\users\sune1\source\repos\p3\include\myo\cxx\detail\throwonerror.hpp(39): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+c:\users\sune1\source\repos\p3\include\myo\cxx\detail\throwonerror.hpp(45): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  c:\users\sune1\source\repos\p3\include\myo\cxx\detail\throwonerror.hpp(45): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+c:\users\sune1\source\repos\p3\samples\emgprocessing.h(34): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\sune1\source\repos\p3\samples\emgprocessing.cpp(121): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\sune1\source\repos\p3\samples\emgprocessing.cpp(148): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  hello-myo.cpp
+c:\users\sune1\source\repos\p3\include\myo\cxx\detail\throwonerror.hpp(39): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  c:\users\sune1\source\repos\p3\include\myo\cxx\detail\throwonerror.hpp(39): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+c:\users\sune1\source\repos\p3\include\myo\cxx\detail\throwonerror.hpp(45): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  c:\users\sune1\source\repos\p3\include\myo\cxx\detail\throwonerror.hpp(45): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+c:\users\sune1\source\repos\p3\samples\emgprocessing.h(34): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  hello-myo-VisualStudio2013.vcxproj -> C:\Users\sune1\Source\Repos\P3\samples\x64\Debug\hello-myo-VisualStudio2013.exe
+  Copy required dlls to output directory
+          1 file(s) copied.
