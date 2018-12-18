@@ -6,3 +6,6 @@ The Arduino code: "\Arduino Code\Arduino\Arduino.ino"
 #C++
 Open the .sln file in visual studio:
 "\P3\C++\samples\hello-myo-VisualStudio2013.sln"
+
+#Inverse dynamics matlab file
+"\P3\AppendixDynamicsInverseFinal.m"
